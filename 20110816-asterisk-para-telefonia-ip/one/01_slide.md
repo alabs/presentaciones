@@ -29,17 +29,43 @@
 * La comunidad de Asterisk
 * El caso de negocio
 
-!SLIDE transition=scrollLeft
+!SLIDE smbullets transition=scrollLeft
 # Arquitectura de Asterisk
+* Módulos
+* Estructura de ficheros
+* El dialplan
+* Hardware
+* Versioneado de Asterisk
 
-!SLIDE transition=scrollLeft
+!SLIDE smbullets transition=scrollLeft
 # Instalando Asterisk
+* Chuleta de instalación
+* Instalación en diferentes distribuciones
+* Dependencias de software
+* Descarga lo que necesites
+* Cómo instalarlo
+* Configuración base
+* Actualizando Asterisk
+* Problemas comunes
+* Mejorando Asterisk
 
-!SLIDE transition=scrollLeft
+!SLIDE smbullets transition=scrollLeft
 # Tareas iniciales de configuración
+* asterisk.conf
+* modules.conf
+* indications.conf
+* musiconhold.conf
 
-!SLIDE transition=scrollLeft
+!SLIDE smbullets transition=scrollLeft
 # Configuración de dispositivos de usuarios
+* Conceptos de telefonía
+* Hardphones, Softphones y ATA
+* Configurando Asterisk
+* Cargando tus nuevas configuraciones de canales
+* Asegurarse que tus dispositivos se conectan
+* Teléfonos analógicos
+* Un dialplan básico para testear tus dispositivos
+* Tu primera llamada
 
 !SLIDE transition=scrollLeft
 # Dialplan básico
