@@ -135,8 +135,11 @@
 * Estados de dispositivos distribuidos
 * Apariencia de líneas compartidas
 
-!SLIDE transition=scrollLeft
+!SLIDE smbullets incremental transition=scrollLeft
 # El contestador automático
+* El contestador automático no es un IVR
+* Diseñando tu contestador automático
+* Contruyendo tu contestador automático
 
 !SLIDE transition=scrollLeft
 # Integración con bases de datos relacionales
