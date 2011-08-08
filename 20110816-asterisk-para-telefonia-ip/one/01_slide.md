@@ -181,8 +181,13 @@
 * Manejando FAX saliente
 * FAX pass-through
 
-!SLIDE transition=scrollLeft
+!SLIDE smbullets incremental transition=scrollLeft
 # Asterisk Manager Interface
+* Comienzo rápido
+* Configuracion
+* Vistazo del protocolo
+* Frameworks de desarrollo
+* Aplicaciones interesantes
 
 !SLIDE transition=scrollLeft
 # Asterisk Gateway Interface
