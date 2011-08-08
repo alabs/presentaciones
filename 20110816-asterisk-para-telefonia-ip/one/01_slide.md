@@ -152,8 +152,15 @@
 * Salvando registros de detalles de llamadas (CDR)
 * Voicemail ODBC
 
-!SLIDE transition=scrollLeft
+!SLIDE smbullets incremental transition=scrollLeft
 # IVR
+* ¿Qué es un IVR?
+* Componentes de un IVR
+* Consideraciones al diseñar un IVR
+* Módulos de Asterisk para construir IVR
+* Un IVR simple usando CURL
+* Una aplicación para grabar menus
+* Reconocimiento de voz y texto a voz
 
 !SLIDE transition=scrollLeft
 # Servicios externos
