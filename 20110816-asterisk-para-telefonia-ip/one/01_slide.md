@@ -88,8 +88,11 @@
 * Backends de almacenamiento
 * Utilizando Asterisk como un servidor de correo de voz independiente
 
-!SLIDE transition=scrollLeft
+!SLIDE smbullets transition=scrollLeft
 # Internacionalización
+* Dispositivos externos al servidor Asterisk
+* Conectividad PSTN, DAHDI, tarjetas Digium y teléfonos analógicos
+* Asterisk
 
 !SLIDE transition=scrollLeft
 # Dialplan en profundidad
