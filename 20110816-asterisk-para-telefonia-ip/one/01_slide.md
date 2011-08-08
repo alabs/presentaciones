@@ -225,8 +225,17 @@
 * Registro de detalles de llamadas
 * A2Billing
 
-!SLIDE transition=scrollLeft
+!SLIDE smbullets incremental transition=scrollLeft
 # Seguridad
+* Escaneando en búsqueda de cuentas válidas
+* Debilidades de la autenticación
+* Fail2ban
+* Media cifrado
+* Vulnerabilidades en el dialplan
+* Securizando las API de red de Asterisk
+* DoS IAX2
+* Otras mitigaciones de riesgos
+* Recursos
 
 !SLIDE transition=scrollLeft
 # Asterisk, un futuro para la telefonía
