@@ -189,8 +189,12 @@
 * Frameworks de desarrollo
 * Aplicaciones interesantes
 
-!SLIDE transition=scrollLeft
+!SLIDE smbullets incremental transition=scrollLeft
 # Asterisk Gateway Interface
+* Comienzo rápido
+* Variantes de AGI
+* Vistazo a la comunicación AGI
+* Frameworks de desarrollo
 
 !SLIDE transition=scrollLeft
 # Clustering
