@@ -19,7 +19,7 @@
 ### Antonio Pardo @apardo
 ### Andrés Pereira
 
-!SLIDE smbullets transition=scrollLeft
+!SLIDE smbullets incremental transition=scrollLeft
 # Una revolución telefónica
 * Cerrando la brecha entre lo tradicional y la Red
 * El proyecto Zapata
@@ -29,7 +29,7 @@
 * La comunidad de Asterisk
 * El caso de negocio
 
-!SLIDE smbullets transition=scrollLeft
+!SLIDE smbullets incremental transition=scrollLeft
 # Arquitectura de Asterisk
 * Módulos
 * Estructura de ficheros
@@ -37,7 +37,7 @@
 * Hardware
 * Versioneado de Asterisk
 
-!SLIDE smbullets transition=scrollLeft
+!SLIDE smbullets incremental transition=scrollLeft
 # Instalando Asterisk
 * Chuleta de instalación
 * Instalación en diferentes distribuciones
@@ -49,14 +49,14 @@
 * Problemas comunes
 * Mejorando Asterisk
 
-!SLIDE smbullets transition=scrollLeft
+!SLIDE smbullets incremental transition=scrollLeft
 # Tareas iniciales de configuración
 * asterisk.conf
 * modules.conf
 * indications.conf
 * musiconhold.conf
 
-!SLIDE smbullets transition=scrollLeft
+!SLIDE smbullets incremental transition=scrollLeft
 # Configuración de dispositivos de usuarios
 * Conceptos de telefonía
 * Hardphones, Softphones y ATA
@@ -67,13 +67,13 @@
 * Un dialplan básico para testear tus dispositivos
 * Tu primera llamada
 
-!SLIDE smbullets transition=scrollLeft
+!SLIDE smbullets incremental transition=scrollLeft
 # Fundamentos del dialplan
 * Sintáxis del dialplan
 * Un dialplan simple
 * Construyendo un dialplan interactivo
 
-!SLIDE smbullets transition=scrollLeft
+!SLIDE smbullets incremental transition=scrollLeft
 # Conectividad con el exterior
 * Fundamentos del trunking
 * Fundamentos del dialplan para conectividad exterior
@@ -81,20 +81,20 @@
 * VoIP
 * Llamadas de emergencia
 
-!SLIDE smbullets transition=scrollLeft
+!SLIDE smbullets incremental transition=scrollLeft
 # Voicemail
 * Comedian Mail
 * Integración en el dialplan
 * Backends de almacenamiento
 * Utilizando Asterisk como un servidor de correo de voz independiente
 
-!SLIDE smbullets transition=scrollLeft
+!SLIDE smbullets incremental transition=scrollLeft
 # Internacionalización
 * Dispositivos externos al servidor Asterisk
 * Conectividad PSTN, DAHDI, tarjetas Digium y teléfonos analógicos
 * Asterisk
 
-!SLIDE smbullets transition=scrollLeft
+!SLIDE smbullets incremental transition=scrollLeft
 # Dialplan en profundidad
 * Expresiones y manipulación de variables
 * Funciones del dialplan
@@ -105,7 +105,7 @@
 * Usando la base de datos Asterisk (AstDB)
 * Funciones útiles de Asterisk
 
-!SLIDE transition=scrollLeft
+!SLIDE smbullets incremental transition=scrollLeft
 # Parking and paging
 
 !SLIDE transition=scrollLeft
