@@ -81,8 +81,12 @@
 * VoIP
 * Llamadas de emergencia
 
-!SLIDE transition=scrollLeft
+!SLIDE smbullets transition=scrollLeft
 # Voicemail
+* Comedian Mail
+* Integración en el dialplan
+* Backends de almacenamiento
+* Utilizando Asterisk como un servidor de correo de voz independiente
 
 !SLIDE transition=scrollLeft
 # Internacionalización
