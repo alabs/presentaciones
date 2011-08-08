@@ -205,8 +205,11 @@
 * Asterisk y el estado de dispositivos distribuido
 * Multiples colas, multiples sitios
 
-!SLIDE transition=scrollLeft
+!SLIDE smbullets incremental transition=scrollLeft
 # DUNDi
+* ¿Cómo funciona DUNDi?
+* El fichero dundi.conf
+* Configurando Asterisk para usar DUNDi
 
 !SLIDE transition=scrollLeft
 # Monitorización y logs
