@@ -126,8 +126,14 @@
 * Colas avanzadas
 * Estadísticas de colas, el fichero queue_log
 
-!SLIDE transition=scrollLeft
+!SLIDE smbullets incremental transition=scrollLeft
 # Estado de los dispositivos
+* Estados de los dispositivos
+* Estado de las extensiones
+* Presencia SIP
+* Usando estados personalizados de dispositivos
+* Estados de dispositivos distribuidos
+* Apariencia de líneas compartidas
 
 !SLIDE transition=scrollLeft
 # El contestador automático
