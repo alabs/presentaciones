@@ -19,8 +19,15 @@
 ### Antonio Pardo @apardo
 ### Andrés Pereira
 
-!SLIDE transition=scrollLeft
+!SLIDE smbullets transition=scrollLeft
 # Una revolución telefónica
+* Cerrando la brecha entre lo tradicional y la Red
+* El proyecto Zapata
+* Cambios masivos requieren una tecnología flexible 
+* La PBX de los hackers
+* La PBX profesional
+* La comunidad de Asterisk
+* El caso de negocio
 
 !SLIDE transition=scrollLeft
 # Arquitectura de Asterisk
