@@ -117,8 +117,14 @@
 * ISN, ITAD y freenum.org
 * Seguridad e identidad
 
-!SLIDE transition=scrollLeft
+!SLIDE smbullets incremental transition=scrollLeft
 # Distribución automática de colas de llamadas
+* Creando una cola ACD simple
+* Miembros de la cola
+* El fichero queues.conf
+* El fichero agents.conf
+* Colas avanzadas
+* Estadísticas de colas, el fichero queue_log
 
 !SLIDE transition=scrollLeft
 # Estado de los dispositivos
