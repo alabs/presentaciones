@@ -67,11 +67,19 @@
 * Un dialplan básico para testear tus dispositivos
 * Tu primera llamada
 
-!SLIDE transition=scrollLeft
-# Dialplan básico
+!SLIDE smbullets transition=scrollLeft
+# Fundamentos del dialplan
+* Sintáxis del dialplan
+* Un dialplan simple
+* Construyendo un dialplan interactivo
 
-!SLIDE transition=scrollLeft
+!SLIDE smbullets transition=scrollLeft
 # Conectividad con el exterior
+* Fundamentos del trunking
+* Fundamentos del dialplan para conectividad exterior
+* Circuitos PSTN
+* VoIP
+* Llamadas de emergencia
 
 !SLIDE transition=scrollLeft
 # Voicemail
