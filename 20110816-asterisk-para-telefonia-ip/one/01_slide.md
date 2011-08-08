@@ -237,5 +237,9 @@
 * Otras mitigaciones de riesgos
 * Recursos
 
-!SLIDE transition=scrollLeft
+!SLIDE smbullets incremental transition=scrollLeft
 # Asterisk, un futuro para la telefonía
+* Los problemas con la telefonía tradicional
+* Cambio de paradigma
+* La promesa de la telefonía Open Source
+* El futuro de Asterisk
