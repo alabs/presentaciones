@@ -94,8 +94,16 @@
 * Conectividad PSTN, DAHDI, tarjetas Digium y teléfonos analógicos
 * Asterisk
 
-!SLIDE transition=scrollLeft
+!SLIDE smbullets transition=scrollLeft
 # Dialplan en profundidad
+* Expresiones y manipulación de variables
+* Funciones del dialplan
+* Bifurcación condicional
+* Macros
+* GoSub()
+* Canales locales
+* Usando la base de datos Asterisk (AstDB)
+* Funciones útiles de Asterisk
 
 !SLIDE transition=scrollLeft
 # Parking and paging
