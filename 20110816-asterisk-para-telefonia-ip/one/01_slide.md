@@ -162,8 +162,14 @@
 * Una aplicación para grabar menus
 * Reconocimiento de voz y texto a voz
 
-!SLIDE transition=scrollLeft
+!SLIDE smbullets incremental transition=scrollLeft
 # Servicios externos
+* Integración con calendario
+* Integración del voicemail con IMAP
+* Usando XMPP con Asterisk
+* Integración con Skype
+* Integración con LDAP
+* Utilidades de texto a voz
 
 !SLIDE transition=scrollLeft
 # FAX
