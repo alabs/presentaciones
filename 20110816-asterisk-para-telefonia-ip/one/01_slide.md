@@ -141,8 +141,16 @@
 * Diseñando tu contestador automático
 * Contruyendo tu contestador automático
 
-!SLIDE transition=scrollLeft
+!SLIDE smbullets incremental transition=scrollLeft
 # Integración con bases de datos relacionales
+* Instalando y configurando PostreSQL y MySQL
+* Instalando y configurando ODBC
+* Manejando bases de datos
+* Una suave introducción a func_odbc
+* Usando func_odbc
+* Usando tiempo real
+* Salvando registros de detalles de llamadas (CDR)
+* Voicemail ODBC
 
 !SLIDE transition=scrollLeft
 # IVR
