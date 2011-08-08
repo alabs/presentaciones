@@ -107,9 +107,15 @@
 
 !SLIDE smbullets incremental transition=scrollLeft
 # Parking and paging
+* features.conf
+* Overhead and "Underchin" Paging (aka Public Address)
 
-!SLIDE transition=scrollLeft
+!SLIDE smbullets incremental transition=scrollLeft
 # Enrutado de llamadas en Internet
+* DNS y SIP URI
+* ENUM y E.164
+* ISN, ITAD y freenum.org
+* Seguridad e identidad
 
 !SLIDE transition=scrollLeft
 # Distribución automática de colas de llamadas
