@@ -4,6 +4,7 @@
 
 ### Jornadas aLabs
 ### 16/08/2011
+### Mexico
 
 !SLIDE transition=fade
 # Asterisk para telefonía IP
@@ -11,6 +12,7 @@
 
 ### Jornadas aLabs
 ### 16/08/2011
+### Mexico
 
 !SLIDE transition=scrollLeft
 # Asterisk para telefonía IP
