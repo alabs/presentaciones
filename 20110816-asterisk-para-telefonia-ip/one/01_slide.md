@@ -218,8 +218,12 @@
 * CEL (Channel Event Logging)
 * SNMP
 
-!SLIDE transition=scrollLeft
+!SLIDE smbullets incremental transition=scrollLeft
 # Interfaces web
+* Flash Operator Panel
+* Estado de las colas y reporting
+* Registro de detalles de llamadas
+* A2Billing
 
 !SLIDE transition=scrollLeft
 # Seguridad
