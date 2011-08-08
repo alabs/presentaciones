@@ -211,8 +211,12 @@
 * El fichero dundi.conf
 * Configurando Asterisk para usar DUNDi
 
-!SLIDE transition=scrollLeft
+!SLIDE smbullets incremental transition=scrollLeft
 # Monitorización y logs
+* logger.conf
+* Registros de detalles de llamadas
+* CEL (Channel Event Logging)
+* SNMP
 
 !SLIDE transition=scrollLeft
 # Interfaces web
