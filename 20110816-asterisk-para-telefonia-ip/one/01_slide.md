@@ -196,8 +196,14 @@
 * Vistazo a la comunicación AGI
 * Frameworks de desarrollo
 
-!SLIDE transition=scrollLeft
+!SLIDE smbullets incremental transition=scrollLeft
 # Clustering
+* Call centers tradicionales
+* Sistemas híbridos
+* Asterisk puro, no distribuido
+* Asterisk e integración con bases de datos
+* Asterisk y el estado de dispositivos distribuido
+* Multiples colas, multiples sitios
 
 !SLIDE transition=scrollLeft
 # DUNDi
