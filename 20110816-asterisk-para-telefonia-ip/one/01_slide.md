@@ -171,8 +171,15 @@
 * Integración con LDAP
 * Utilidades de texto a voz
 
-!SLIDE transition=scrollLeft
+!SLIDE smbullets incremental transition=scrollLeft
 # FAX
+* ¿Qué es FAX?
+* Maneras de manejar faxes en Asterisk
+* spandsp
+* Digium FAX para Asterisk
+* Manejando FAX entrante
+* Manejando FAX saliente
+* FAX pass-through
 
 !SLIDE transition=scrollLeft
 # Asterisk Manager Interface
