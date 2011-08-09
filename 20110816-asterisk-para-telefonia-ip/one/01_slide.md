@@ -243,3 +243,17 @@
 * Cambio de paradigma
 * La promesa de la telefonía Open Source
 * El futuro de Asterisk
+
+!SLIDE 
+# Asterisk para telefonía IP
+## ¿Preguntas?
+->![logo-alabs](logo.png)<-
+### 16/08/2011
+### Mexico
+
+!SLIDE 
+# Asterisk para telefonía IP
+## Gracias
+->![logo-alabs](logo.png)<-
+### 16/08/2011
+### Mexico
