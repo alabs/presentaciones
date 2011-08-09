@@ -1,0 +1,15 @@
+<h1> Listado de libros</h1>
+<ul>
+{% for book in book_list %}
+    <li>
+        <a href="{% url get-book book_slug=book.slug_name %}">
+            {{ book.name }}
+        </a>
+            <ul>
+                <li>{{ book.author }}
+                <li>{{ book.isbn }}
+                <li>{{ book.description }}
+            </ul>
+    </li>
+{% endfor %}
+</ul>

@@ -1,0 +1,11 @@
+{
+  "name": "Conociendo Python y Django",
+  "description": "Facilitar los conocimientos básicos para iniciarse en el desarrollo con Django, un Framework de alto nivel para Python con el que la comunidad de Liberateca está desarrollando su propia plataforma para compartir enlaces.",
+  "sections": [
+    {"section":"Introduccion"},
+    {"section":"Python"},
+    {"section":"Django"},
+    {"section":"Ejemplo"},
+    {"section":"Final"}
+  ]
+}

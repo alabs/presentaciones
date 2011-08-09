@@ -1,1 +1,3 @@
 *.swp
+*.pyc
+20110817-conociendo-python-y-django/testing/testing.db
