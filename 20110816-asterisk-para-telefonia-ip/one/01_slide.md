@@ -1,16 +1,14 @@
 !SLIDE 
 # Asterisk para telefonía IP
 ## El futuro de la telefonía es ahora
-
-### Jornadas aLabs
+->![logo-alabs](logo.png)<-
 ### 16/08/2011
 ### Mexico
 
 !SLIDE transition=fade
 # Asterisk para telefonía IP
 ## o cómo dominar el mundo
-
-### Jornadas aLabs
+->![logo-alabs](logo.png)<-
 ### 16/08/2011
 ### Mexico
 
