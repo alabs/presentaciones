@@ -1,0 +1,8 @@
+{
+  "name": "Curso intensivo de desarrollo web con Django",
+  "description": "Curso avanzado de Django para desarrolladores previamente formados en Python.",
+  "sections": [
+    {"section":"Herramientas"},
+    {"section":"Aplicaciones"}
+  ]
+}
