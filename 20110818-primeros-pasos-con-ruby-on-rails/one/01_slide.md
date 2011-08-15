@@ -34,3 +34,53 @@
 * RSpec
 * Extendiendo Rails con plugins
 * Procesamiento en segundo plano
+
+!SLIDE smbullets incremental transition=scrollLeft
+# Entornos de Rails y configuración
+* Bundler
+* Boot y configuración de la aplicación
+* Modo de desarrollo
+* Modo de test
+* Modo de producción
+* Logging
+
+!SLIDE smbullets incremental transition=scrollLeft
+# Sistema de enrutamiento
+* Los dos propósitos del enrutamiento
+* El fichero routes.rb
+* Route globbing
+* Named routes
+* Ámbito de las reglas de routing
+* Listando rutas
+
+!SLIDE smbullets incremental transition=scrollLeft
+# REST, Recursos y Rails
+* REST in a Nutshell
+* Recursos y representaciones
+* REST en Rails
+* Routing y CRUD
+
+!SLIDE smbullets incremental transition=scrollLeft
+# REST, Recursos y Rails
+* Las acciones de controladores RESTful estándares
+* Rutas de recursos en singular
+* Recursos anidados
+* Adaptaciones de rutas RESTful
+* Recursos solo de controlador
+* Diferentes representaciones de recursos
+* Set de acciones RESTful de Rails
+
+!SLIDE smbullets incremental transition=scrollLeft
+# Trabajando con controladores
+* Rack
+* Action Dispatch: donde todo comienza
+* Renderizar en una vista
+* Opciones de layouts adicionales
+
+!SLIDE smbullets incremental transition=scrollLeft
+# Trabajando con controladores
+* Redirigiendo
+* Comunicación entre el controlador y la vista
+* Filtros
+* Verificación
+* Streaming
