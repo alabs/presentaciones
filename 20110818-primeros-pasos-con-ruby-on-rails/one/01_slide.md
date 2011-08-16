@@ -84,3 +84,21 @@
 * Filtros
 * Verificación
 * Streaming
+
+!SLIDE smbullets incremental transition=scrollLeft
+# Trabajando con Active Record
+* Lo básico
+* Métodos macro
+* Definiendo atributos
+* CRUD
+* Bloqueo de la DB
+* Claúsulas WHERE
+* Conectando a diferentes bases de datos
+
+!SLIDE smbullets incremental transition=scrollLeft
+# Migraciones de Active Record
+* Creando migraciones
+* Migraciones de datos
+* schema.rb
+* Llenado de la base de datos
+* Tareas relacionadas con la DB

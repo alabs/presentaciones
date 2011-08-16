@@ -17,9 +17,8 @@
 
 ## Hola!
 ### Antonio Pardo @apardo
-### Andrés Pereira
 
-!SLIDE smbullets incremental transition=scrollLeft
+!SLIDE smbullets transition=scrollLeft
 # Una revolución telefónica
 * Cerrando la brecha entre lo tradicional y la Red
 * El proyecto Zapata
@@ -29,7 +28,7 @@
 * La comunidad de Asterisk
 * El caso de negocio
 
-!SLIDE smbullets incremental transition=scrollLeft
+!SLIDE smbullets transition=scrollLeft
 # Arquitectura de Asterisk
 * Módulos
 * Estructura de ficheros
@@ -37,7 +36,7 @@
 * Hardware
 * Versioneado de Asterisk
 
-!SLIDE smbullets incremental transition=scrollLeft
+!SLIDE smbullets transition=scrollLeft
 # Instalando Asterisk
 * Chuleta de instalación
 * Instalación en diferentes distribuciones
@@ -49,14 +48,14 @@
 * Problemas comunes
 * Mejorando Asterisk
 
-!SLIDE smbullets incremental transition=scrollLeft
+!SLIDE smbullets transition=scrollLeft
 # Tareas iniciales de configuración
 * asterisk.conf
 * modules.conf
 * indications.conf
 * musiconhold.conf
 
-!SLIDE smbullets incremental transition=scrollLeft
+!SLIDE smbullets transition=scrollLeft
 # Configuración de dispositivos de usuarios
 * Conceptos de telefonía
 * Hardphones, Softphones y ATA
@@ -67,13 +66,13 @@
 * Un dialplan básico para testear tus dispositivos
 * Tu primera llamada
 
-!SLIDE smbullets incremental transition=scrollLeft
+!SLIDE smbullets transition=scrollLeft
 # Fundamentos del dialplan
 * Sintáxis del dialplan
 * Un dialplan simple
 * Construyendo un dialplan interactivo
 
-!SLIDE smbullets incremental transition=scrollLeft
+!SLIDE smbullets transition=scrollLeft
 # Conectividad con el exterior
 * Fundamentos del trunking
 * Fundamentos del dialplan para conectividad exterior
@@ -81,43 +80,27 @@
 * VoIP
 * Llamadas de emergencia
 
-!SLIDE smbullets incremental transition=scrollLeft
+!SLIDE smbullets transition=scrollLeft
 # Voicemail
 * Comedian Mail
 * Integración en el dialplan
 * Backends de almacenamiento
 * Utilizando Asterisk como un servidor de correo de voz independiente
 
-!SLIDE smbullets incremental transition=scrollLeft
+!SLIDE smbullets transition=scrollLeft
 # Internacionalización
 * Dispositivos externos al servidor Asterisk
 * Conectividad PSTN, DAHDI, tarjetas Digium y teléfonos analógicos
 * Asterisk
 
-!SLIDE smbullets incremental transition=scrollLeft
-# Dialplan en profundidad
-* Expresiones y manipulación de variables
-* Funciones del dialplan
-* Bifurcación condicional
-* Macros
-* GoSub()
-* Canales locales
-* Usando la base de datos Asterisk (AstDB)
-* Funciones útiles de Asterisk
-
-!SLIDE smbullets incremental transition=scrollLeft
-# Parking and paging
-* features.conf
-* Overhead and "Underchin" Paging (aka Public Address)
-
-!SLIDE smbullets incremental transition=scrollLeft
+!SLIDE smbullets transition=scrollLeft
 # Enrutado de llamadas en Internet
 * DNS y SIP URI
 * ENUM y E.164
 * ISN, ITAD y freenum.org
 * Seguridad e identidad
 
-!SLIDE smbullets incremental transition=scrollLeft
+!SLIDE smbullets transition=scrollLeft
 # Distribución automática de colas de llamadas
 * Creando una cola ACD simple
 * Miembros de la cola
@@ -126,7 +109,7 @@
 * Colas avanzadas
 * Estadísticas de colas, el fichero queue_log
 
-!SLIDE smbullets incremental transition=scrollLeft
+!SLIDE smbullets transition=scrollLeft
 # Estado de los dispositivos
 * Estados de los dispositivos
 * Estado de las extensiones
@@ -135,13 +118,13 @@
 * Estados de dispositivos distribuidos
 * Apariencia de líneas compartidas
 
-!SLIDE smbullets incremental transition=scrollLeft
+!SLIDE smbullets transition=scrollLeft
 # El contestador automático
 * El contestador automático no es un IVR
 * Diseñando tu contestador automático
 * Contruyendo tu contestador automático
 
-!SLIDE smbullets incremental transition=scrollLeft
+!SLIDE smbullets transition=scrollLeft
 # Integración con bases de datos relacionales
 * Instalando y configurando PostreSQL y MySQL
 * Instalando y configurando ODBC
@@ -152,7 +135,7 @@
 * Salvando registros de detalles de llamadas (CDR)
 * Voicemail ODBC
 
-!SLIDE smbullets incremental transition=scrollLeft
+!SLIDE smbullets transition=scrollLeft
 # IVR
 * ¿Qué es un IVR?
 * Componentes de un IVR
@@ -162,7 +145,7 @@
 * Una aplicación para grabar menus
 * Reconocimiento de voz y texto a voz
 
-!SLIDE smbullets incremental transition=scrollLeft
+!SLIDE smbullets transition=scrollLeft
 # Servicios externos
 * Integración con calendario
 * Integración del voicemail con IMAP
@@ -171,7 +154,7 @@
 * Integración con LDAP
 * Utilidades de texto a voz
 
-!SLIDE smbullets incremental transition=scrollLeft
+!SLIDE smbullets transition=scrollLeft
 # FAX
 * ¿Qué es FAX?
 * Maneras de manejar faxes en Asterisk
@@ -181,7 +164,7 @@
 * Manejando FAX saliente
 * FAX pass-through
 
-!SLIDE smbullets incremental transition=scrollLeft
+!SLIDE smbullets transition=scrollLeft
 # Asterisk Manager Interface
 * Comienzo rápido
 * Configuracion
@@ -189,43 +172,34 @@
 * Frameworks de desarrollo
 * Aplicaciones interesantes
 
-!SLIDE smbullets incremental transition=scrollLeft
+!SLIDE smbullets transition=scrollLeft
 # Asterisk Gateway Interface
 * Comienzo rápido
 * Variantes de AGI
 * Vistazo a la comunicación AGI
 * Frameworks de desarrollo
 
-!SLIDE smbullets incremental transition=scrollLeft
-# Clustering
-* Call centers tradicionales
-* Sistemas híbridos
-* Asterisk puro, no distribuido
-* Asterisk e integración con bases de datos
-* Asterisk y el estado de dispositivos distribuido
-* Multiples colas, multiples sitios
-
-!SLIDE smbullets incremental transition=scrollLeft
+!SLIDE smbullets transition=scrollLeft
 # DUNDi
 * ¿Cómo funciona DUNDi?
 * El fichero dundi.conf
 * Configurando Asterisk para usar DUNDi
 
-!SLIDE smbullets incremental transition=scrollLeft
+!SLIDE smbullets transition=scrollLeft
 # Monitorización y logs
 * logger.conf
 * Registros de detalles de llamadas
 * CEL (Channel Event Logging)
 * SNMP
 
-!SLIDE smbullets incremental transition=scrollLeft
+!SLIDE smbullets transition=scrollLeft
 # Interfaces web
 * Flash Operator Panel
 * Estado de las colas y reporting
 * Registro de detalles de llamadas
 * A2Billing
 
-!SLIDE smbullets incremental transition=scrollLeft
+!SLIDE smbullets transition=scrollLeft
 # Seguridad
 * Escaneando en búsqueda de cuentas válidas
 * Debilidades de la autenticación
@@ -237,7 +211,7 @@
 * Otras mitigaciones de riesgos
 * Recursos
 
-!SLIDE smbullets incremental transition=scrollLeft
+!SLIDE smbullets transition=scrollLeft
 # Asterisk, un futuro para la telefonía
 * Los problemas con la telefonía tradicional
 * Cambio de paradigma
