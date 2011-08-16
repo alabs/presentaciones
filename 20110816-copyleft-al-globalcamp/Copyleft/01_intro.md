@@ -68,10 +68,15 @@
 !SLIDE smbullets incremental transition=scrollLeft
 # 15M #Globalcamp, de la red a la calle
 * @acampadasol como fenomeno vírico
-* Vídeo: http://15m.bifi.es/
+* Vídeo: [http://15m.bifi.es/](http://15m.bifi.es/)
 * 1¼ día se plantea estrategia de comunicación
 * Se crean cuentas en redes sociales
 * El 1¼ solidario que viene a dormir llega a las 2 horas tras enterarse ¡por twitter!
+
+!SLIDE smbullets incremental transition=scrollLeft
+<p align="center">
+<iframe width="640" height="510" src="http://www.youtube.com/embed/H5w4amBIHj4" frameborder="0" allowfullscreen></iframe>
+</p>
 
 !SLIDE smbullets incremental transition=scrollLeft
 # 15M globalcamp
