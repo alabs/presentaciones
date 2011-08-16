@@ -2,6 +2,7 @@
   "name": "Curso intensivo de desarrollo web con Django",
   "description": "Curso avanzado de Django para desarrolladores previamente formados en Python.",
   "sections": [
+    {"section":"Introduccion"},
     {"section":"Herramientas"},
     {"section":"Aplicaciones"}
   ]

@@ -1,6 +1,6 @@
 {
-  "name": "Curso intensivo de desarrollo web con Django",
-  "description": "Curso avanzado de Django para desarrolladores previamente formados en Python.",
+  "name": "Del Copyleft al #Globalcamp",
+  "description": "En los últimos 50 años el desarrollo de las nuevas tecnologías comienza un proceso de conexión entre humanos y máquinas como nunca se había soñado. El desarrollo de estas tecnologías nos ofrecen la posibilidad de una nueva "democracia" participativa en donde el uso de la red se plantea como una nueva forma de activismo que nos acerca a nuevas formas de organización social.",
   "sections": [
     {"section":"Copyleft"}
   ]
