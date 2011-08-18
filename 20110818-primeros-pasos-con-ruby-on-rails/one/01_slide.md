@@ -16,13 +16,10 @@
 * Migraciones de Active Record
 * Asociaciones de Active Record
 * Validaciones
-* Active Record avanzado
 
 !SLIDE transition=fade smbullets incremental transition=scrollLeft
 # Agenda del día
 * Action View
-* Todo sobre los helpers
-* Ajax on Rails
 * Manejo de sesiones
 * Autenticación
 * XML y Active Resource
@@ -30,8 +27,7 @@
 
 !SLIDE transition=fade smbullets incremental transition=scrollLeft
 # Agenda del día
-* Cache y rendimiento
-* RSpec
+* Caché y rendimiento
 * Extendiendo Rails con plugins
 * Procesamiento en segundo plano
 
@@ -102,3 +98,71 @@
 * schema.rb
 * Llenado de la base de datos
 * Tareas relacionadas con la DB
+
+!SLIDE smbullets incremental transition=scrollLeft
+# Asociaciones de Active Record
+* La jerarquia de asociaciones
+* Asociaciones 1-n
+* Asociaciones belongs_to
+* Asociaciones has_many
+* Asociaciones muchos a muchos
+* Asociaciones 1-1
+
+!SLIDE smbullets incremental transition=scrollLeft
+# Validaciones
+* Encontrando errores
+* Declaraciones simples de validacaciones
+* Opciones de validación comunes
+* Validación condicional
+* Técnicas de validación propias
+* Trabajando con el hash Errors
+
+!SLIDE smbullets incremental transition=scrollLeft
+# Action View
+* Layouts y plantillas
+* Partials
+
+!SLIDE smbullets incremental transition=scrollLeft
+# Manejo de sesiones
+* Qué guardar en la sesión
+* Opciones de sesiones
+* Mecanismos de persitencia
+* Cookies
+
+!SLIDE smbullets incremental transition=scrollLeft
+# Autenticación
+* Authlogic
+* Devise
+
+!SLIDE smbullets incremental transition=scrollLeft
+# XML y Active Resource
+* El método to_xml
+* El Builder XML
+* Parseando XML
+* Active Resource
+* Autenticación Active Resource
+
+!SLIDE smbullets incremental transition=scrollLeft
+# Action Mailer
+* Configuración
+* Modelos mailer
+* Recibiendo emails
+* Configuración del servidor
+
+!SLIDE smbullets incremental transition=scrollLeft
+# Caché y rendimiento
+* Caché de vistas
+* Caché general
+* Control de caché web
+* ETags
+
+!SLIDE smbullets incremental transition=scrollLeft
+# Extendiendo Rails con plugins
+* El sistema de plugins
+* Escribiendo nuestros propios plugins
+
+!SLIDE smbullets incremental transition=scrollLeft
+# Procesamiento en segundo plano
+* Delayed Job
+* Resque
+* Rails Runner
