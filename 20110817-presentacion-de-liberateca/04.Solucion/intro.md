@@ -2,4 +2,4 @@
 
 # La solución
 
-# Abierto y sin dobles intenciones #
+## Abierto y sin dobles intenciones 

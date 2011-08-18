@@ -2,6 +2,7 @@
   "name": "Liberateca",
   "description": "Liberateca es una página de enlaces de nueva generación. Código libre, desarrollo abierto, sin publicidad, sin ánimo de lucro, comunitaria y autogestionada.",
   "sections": [
+    {"section":"00.Introduccion"},
     {"section":"01.Liberateca"},
     {"section":"02.Cultura"},
     {"section":"03.Problema"},

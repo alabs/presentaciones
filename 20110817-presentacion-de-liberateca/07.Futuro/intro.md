@@ -17,14 +17,24 @@
 * Documentales
 * Música 
 
-!SLIDE transition=fade
+!SLIDE bullets incremental transition=fade
 
 # Sugerencias
 
-!SLIDE transition=fade
+* Mostrar la calidad del archivo (HDTV, 720p, etc)
+* Detector de enlaces rotos
+* Un "buzón" para donativos
 
-# Gracias
+!SLIDE 
+# Presentación de Liberateca
+## ¿Preguntas?
+->![logo-alabs](logo.png)<-
+### 17/08/2011
+### Mexico
 
-!SLIDE transition=fade
-
-# ¿Preguntas?
+!SLIDE 
+# Presentación de Liberateca
+## Gracias
+->![logo-alabs](logo.png)<-
+### 17/08/2011
+### Mexico

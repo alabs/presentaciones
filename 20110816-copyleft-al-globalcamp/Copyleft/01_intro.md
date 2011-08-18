@@ -12,36 +12,44 @@
 ### Daniel Vazquez
 
 !SLIDE smbullets incremental transition=scrollLeft
-# Que se juega en el ciberespacio (Marga Padilla)
+# Que se juega en el ciberespacio 
+## Marga Padilla
 * Una buena introducción, podéis colaborar
 * [http://www.unalineasobreelmar.net/politizaciones/index.php?title=Politizaciones_en_el_ciberespacio](http://www.unalineasobreelmar.net/politizaciones/index.php?title=Politizaciones_en_el_ciberespacio)
 
-!SLIDE smaller smbullets incremental transition=scrollLeft
+!SLIDE bullets incremental transition=scrollLeft
 # Del Copyleft a la cultura y a la calle 1998-2011
 * Existe Nodo50, nace Sindominio
 * Expertos en tecnología se acercan a centros sociales
+
+!SLIDE smbullets incremental transition=scrollLeft
+# Del Copyleft a la cultura y a la calle 1998-2011
 * Aparecen las primeras áreas telemáticas: Espacios con software libre
 * Nace Hackmeeting / Hacklabs: De lo global a lo local
 * Se traspasa todo ese mundo copyleft a la cultura y a la movimientos sociales
 * Es donde hay que estar: De esa contaminación nacerán nuestros propios aliados, con estructuras más fuertes.
-* Ejemplo: Traficantes de sueños: Editorial,librería y distribuidora
-* Otro ejemplo: Periódico Diagonal
+
+!SLIDE smbullets incremental transition=scrollLeft
+# Del Copyleft a la cultura y a la calle 1998-2011
+## Ejemplos
+* Traficantes de sueños: Editorial,librería y distribuidora
+* Periódico Diagonal
 
 !SLIDE smaller smbullets incremental transition=scrollLeft
 # 2002 Copyright y Maremoto (Wu ming)
-* Actualmente existe un amplio movimiento de protesta y transformación social en gran parte del planeta. Tiene potencialidades constituyentes desmesuradas, pero aún no es completamente consciente de ello. Aunque su origen es antiguo, se ha manifestado sólo recientemente, apareciendo en varias ocasiones bajo los reflectores mediáticos y, sin embargo, trabajando día a día lejos de ellos. Está formado por multitudes y por singularidades, por retículas capilares en el territorio. Cabalga las más recientes innovaciones tecnológicas. Le quedan pequeñas las definiciones acuñadas por sus adversarios. Pronto será imparable y la represión nada podrá contra él.
+### Actualmente existe un amplio movimiento de protesta y transformación social en gran parte del planeta. Tiene potencialidades constituyentes desmesuradas, pero aún no es completamente consciente de ello. Aunque su origen es antiguo, se ha manifestado sólo recientemente, apareciendo en varias ocasiones bajo los reflectores mediáticos y, sin embargo, trabajando día a día lejos de ellos. Está formado por multitudes y por singularidades, por retículas capilares en el territorio. Cabalga las más recientes innovaciones tecnológicas. Le quedan pequeñas las definiciones acuñadas por sus adversarios. Pronto será imparable y la represión nada podrá contra él.
 * Es lo que el poder económico llama "piratería". 
 * Es el movimiento real que suprime el actual estado de las cosas.
 * [http://www.sindominio.net/biblioweb-old/telematica/maremoto.html](http://www.sindominio.net/biblioweb-old/telematica/maremoto.html)
 
-!SLIDE smbullets incremental transition=scrollLeft
+!SLIDE smaller smbullets incremental transition=scrollLeft
 # La batalla por "#LeySinde"
 * Hacktivistas.net: 2008 Filtración de ACTA
-* Concreta las prócticas de guerrilla de comunicación anteriores
+* Concreta las prácticas de guerrilla de comunicación anteriores
 * Abre la participación al ser un conector con herramientas
 * Salir de la oscuridad para ser visibles
 * Acciones: Siereslegalcomparte, lalistadesinde, sindegate, etc.
-* Miles de personas se sumas a estas acciones
+* Miles de personas se suman a estas acciones
 * La desobediencia y activismo telemático se asientan como práctica social ante injusticias
 
 !SLIDE smbullets incremental transition=scrollLeft
@@ -49,23 +57,23 @@
 * 2008-2011 Las redes sociales son ya un hervidero, decenas de miles usan esos canales para participar como enjambres.
 * Wikileaks y Anonymous entran en escena planteando el conflicto a nivel global
 * Copiar, descargar, redistribuir pasa a ser algo normal
-* Pese a presiones de SGAE, y la industria (Juicio Pablo Soto y más)
+* Pese a presiones de SGAE y la industria (Juicio Pablo Soto y más)
 
 !SLIDE smbullets incremental transition=scrollLeft
 # Múltiples actores
 * RedSostenible aparece en los cables de wikileaks: Pocos pero desconocemos su potencial
-* EXGAE, abogados, blogers, periodistas
+* EXGAE, abogados, bloggers, periodistas
 * Páginas de enlaces
-* #Nolevotes
+* Nolevotes
 * Anonymnous y los Goya
 
 !SLIDE smbullets incremental transition=scrollLeft
 # Al final
 * SGAE descabezada
-*  #leysinde muy débil
-*  Sociedad que ve el proceso entero del "Sindegate" cada vez más indignada y acostumbrada a participar en acciones de rechazo
+* LeySinde muy débil
+* Sociedad que ve el proceso entero del "Sindegate" cada vez más indignada y acostumbrada a participar en acciones de rechazo
 
-!SLIDE smbullets incremental transition=scrollLeft
+!SLIDE smaller smbullets incremental transition=scrollLeft
 # 15M #Globalcamp, de la red a la calle
 * @acampadasol como fenomeno vírico
 * Vídeo: [http://15m.bifi.es/](http://15m.bifi.es/)

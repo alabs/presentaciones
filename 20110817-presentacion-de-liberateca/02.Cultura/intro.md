@@ -2,13 +2,13 @@
 
 # Omnia sunt communia 
 
-# Todo es de todos #
+## Todo es de todos 
 
 !SLIDE  transition=fade
 
 # Compartiendo cultura
 
-# Internet, el sueño de Gutenberg #
+## Internet, el sueño de Gutenberg 
 
 !SLIDE  transition=fade
 

@@ -12,7 +12,7 @@
 
 # Código libre
 
-# github
+## github
 
 !SLIDE  transition=fade
 
@@ -22,7 +22,7 @@
 
 # Desarrollo abierto
 
-# UserVoice
+## UserVoice
 
 !SLIDE  transition=fade
 
@@ -32,7 +32,7 @@
 
 # Comunitaria y autogestionada
 
-# Lista de correo
+## Lista de correo
 
 !SLIDE transition=fade
 

@@ -1,7 +1,7 @@
 !SLIDE transition=fade 
 # El problema
 
-# Publicidad y lucro con algo que no has hecho. #
+## Publicidad y lucro con algo que no has hecho. 
 
 !SLIDE  transition=fade
 -> [ ![Series Yonkis](screen_sy.png) ](http://seriesyonkis.com/) <-

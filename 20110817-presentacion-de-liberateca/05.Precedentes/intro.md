@@ -2,8 +2,8 @@
 
 # Precedentes: 
 
-# eztv 
-# espoiler.tv
+## eztv 
+## espoiler.tv
 
 !SLIDE transition=fade
 
@@ -16,9 +16,9 @@
 !SLIDE  transition=fade
 
 # Problema 1
-# Sólo de series 
+## Sólo de series 
 
 !SLIDE transition=fade
 
 # Problema 2
-# No son software libre 
+## No son software libre 
