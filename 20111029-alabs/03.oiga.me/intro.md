@@ -28,6 +28,10 @@ oiga.me es una plataforma de acción y movilización ciudadana, una herramienta 
 
 !SLIDE transition=fade
 
+![oiga.me](snapshot_04.png)
+
+!SLIDE transition=fade
+
 #Código 
 
 GNU Affero GPL v3
