@@ -1,0 +1,11 @@
+{
+  "name": "aLabs",
+  "description": "En aLabs ayudamos a proyectos de software libre a desarrollarse, a asociaciones e instituciones a usar las nuevas tecnologías y a todo tipo de organizaciones a superar las barreras tecnológicas y avanzar en la mejora de sus sistemas. ",
+  "sections": [
+    {"section":"00.Introduccion"},
+    {"section":"01.nolotiro.org"},
+    {"section":"02.Liberateca"},
+    {"section":"03.oiga.me"},
+    {"section":"04.Final"}
+  ]
+}
